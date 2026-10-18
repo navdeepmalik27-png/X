@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+    <category title="OnePlus System">
+        <item drawable="oneplus_dialer" />
+        <item drawable="oneplus_messages" />
+        <item drawable="oneplus_camera" />
+        <item drawable="oneplus_gallery" />
+        <item drawable="oneplus_settings" />
+        <item drawable="oneplus_clock" />
+        <item drawable="oneplus_calculator" />
+        <item drawable="oneplus_notes" />
+        <item drawable="oneplus_notebook" />
+        <item drawable="oneplus_file_manager" />
+        <item drawable="oneplus_weather" />
+        <item drawable="oneplus_compass" />
+        <item drawable="oneplus_calendar" />
+        <item drawable="oneplus_store" />
+        <item drawable="oneplus_care" />
+        <item drawable="oneplus_community" />
+    </category>
+    <category title="Google and Popular">
+        <item drawable="google_chrome" />
+        <item drawable="google_gmail" />
+        <item drawable="google_lens" />
+        <item drawable="google_calendar" />
+        <item drawable="google_weather" />
+        <item drawable="system_browser" />
+        <item drawable="music_player" />
+        <item drawable="entertainment_tiktok" />
+    </category>
+</resources>
