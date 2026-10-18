@@ -1,4 +1,3 @@
-unzip Fluffy_OxygenOS_OnePlus13_IconPack.zip
 cd fluffy_oxygenos_iconpack
 git init
 git branch -M main
